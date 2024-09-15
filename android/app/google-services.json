@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "598457017881",
+    "firebase_url": "https://final-year-project-d8735-default-rtdb.firebaseio.com",
+    "project_id": "final-year-project-d8735",
+    "storage_bucket": "final-year-project-d8735.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598457017881:android:ed4f649dee3fb4cdcf6c88",
+        "android_client_info": {
+          "package_name": "com.example.women_safety_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3AuWOTYBRfngnYFcru6ZnbOu-NVNdgG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
