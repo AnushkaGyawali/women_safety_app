@@ -181,10 +181,8 @@ The idea emerged from rising incidents of violence against women in South Asia, 
 
 ## 👌 Contributing
 
-Pull requests are welcome! For major changes, open an issue first to discuss what you'd like to change. Contributions toward localization, UI improvements, or new features are encouraged.
-
----
+Pull requests are welcome!
 
 ## 📄 License
 
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License .
