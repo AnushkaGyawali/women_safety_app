@@ -96,11 +96,12 @@ The idea emerged from rising incidents of violence against women in South Asia, 
 ---
 
 ## 🚀 Installation & Setup
+(For direct installation download the base apk file in your mobile then install)
 
 1. **Clone the Repository**
 
    ```bash
-   git clone <repository_url>
+   git clone <https://github.com/AnushkaGyawali/women_safety_app>
    cd WomenSecurityApp
    ```
 
